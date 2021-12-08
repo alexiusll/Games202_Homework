@@ -1,10 +1,3 @@
-# Games202_Homework
-GAMES202 结合 react 框架完成 homework
-
-如果可以的话，把这个项目作为前端webgl的试验场。
-
-
-
 ## 🔵搭建方式
 
 参考文档：
